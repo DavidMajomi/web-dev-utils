@@ -22,3 +22,16 @@ Igarra-Okpe_road_construction_2025/
 History/
 school_supplies/
 Texas_reunion_2024/
+
+
+# Generated files
+passwords.csv
+processed_names.txt
+duplicates_report.txt
+latest_password.csv
+
+
+# Other files
+name_results.txt
+names.txt
+test_names.txt
