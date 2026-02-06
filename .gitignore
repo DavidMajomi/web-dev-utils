@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Ignore photo and video directories
+_duplicates/
+covid_relief_2022/
+Electricity/
+Evaremi_Festival_2022/
+NJ_reunion_2014/
+NY_reunion_2023/
+Okpedafe_2023/
+Okpe-ijaja_road_grading_2025/
+Igarra-Okpe_road_construction_2025/
+History/
+school_supplies/
+Texas_reunion_2024/
